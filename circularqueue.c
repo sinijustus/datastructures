@@ -74,7 +74,7 @@ void display()
     printf("&d\n",q[i]);
     }
 }
-    }
-    }
-}
-    }
+    
+    
+
+    
